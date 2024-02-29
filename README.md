@@ -19,12 +19,12 @@ Each project branch contains the HTML, CSS, and JavaScript files required to run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-dev-projects.git
+   git clone https://github.com/bernixCodes/WebDev.git
    ```
 
 2. Switch to the branch corresponding to the project you wish to explore:
    ```bash
-   git checkout project-1
+   eg. git checkout drumKit
    ```
 
 3. Open the project files in your preferred code editor to view and modify the code.
